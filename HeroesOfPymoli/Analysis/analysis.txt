@@ -1,0 +1,7 @@
+# Three observable trends in Heroes of Pymoli purchase data
+
+1) Males make up 84.03% of the sales making them the largest generators of Revenue with more individual purchases than females and although their average purchase price is slightly less than females.
+
+2) Players in the 20-24 age range made the largest percentage of purchases at 44.79% but their average purchase price ($3.05) was neither the greatest ($3.60 for 35-39 year olds) or the least ($2.93 for 30-34 year olds).
+
+3)The top spender paid on average $3.79 per item and bought 5 items. Item 92, the Final Critic was the most bought item (purchased 13 times) making up 2.52% of total revenue.
